@@ -1,11 +1,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link href="css.css" rel="stylesheet">
+    <link href="css.css" rel="stylesheet" type="text/css">
     <title></title>
 </head>
 <body>
-<h1>CollCulator</h1>
 <form>
     <input type="text" name="num1" placeholder="Number 1">
     <input type="text" name="num2" placeholder="Number 2">

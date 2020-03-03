@@ -19,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YRoDaaWyDR5un7568mv4yi26Ov" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +45,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582914648583</updated>
-      <workItem from="1582914649759" duration="1176000" />
+      <workItem from="1582914649759" duration="1773000" />
+      <workItem from="1583259334235" duration="959000" />
+      <workItem from="1583260321582" duration="754000" />
     </task>
     <servers />
   </component>
@@ -53,5 +59,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="555" y="354" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1582914738333" />
+    <state x="415" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1583261130704">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="415" y="255" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583261130704" />
   </component>
 </project>
